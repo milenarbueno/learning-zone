@@ -1,5 +1,5 @@
-# 💫 About Me:
-📚Learning-zone<br>Este repositório é um lugar para meus projetos e estudos, vou tentar organizá-lo da melhor forma possível..<br><br>Os assuntos dos estudos serão:<br>💻Cibersegurança<br>🐍Python<br>🔐Criptografia
+# 📚Learning-zone<br>:
+#Este repositório é um lugar para meus projetos e estudos, vou tentar organizá-lo da melhor forma possível..<br><br>Os assuntos dos estudos serão:<br>💻Cibersegurança<br>🐍Python<br>🔐Criptografia
 
 
 ## 🌐 Socials:
